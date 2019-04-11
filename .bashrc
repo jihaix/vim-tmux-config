@@ -16,3 +16,6 @@ export PATH=$PATH:${GOPATH//://bin:}/bin
 
 eval  `dircolors  ~/.dircolors`
 alias ls='ls --color'
+
+
+alias tmux="TERM=screen-256color tmux -2"
