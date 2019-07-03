@@ -12,3 +12,4 @@ set pastetoggle=<F9>
 colorscheme  molokai  
 set t_Co=256
 set background=dark
+syntax on
