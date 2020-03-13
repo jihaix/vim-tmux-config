@@ -17,4 +17,4 @@ Steps to finish configuration for vim & tmux in linux:
   cp: -r not specified; omitting directory '.vim'
 ```
 
-4 Installation done
+4 Installation done, restart session to see effect.
