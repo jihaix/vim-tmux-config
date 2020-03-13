@@ -1,0 +1,16 @@
+Steps to finish configuration for vim & tmux in linux:
+1 Clone project 
+2 Run below command:
+```
+  cd vim-tmux-config
+  chmod u+x ./install.sh
+  ./install.sh
+```
+3 Ignore message below:
+```
+  cp: -r not specified; omitting directory '.'
+  cp: -r not specified; omitting directory '..'
+  cp: -r not specified; omitting directory '.git'
+  cp: -r not specified; omitting directory '.vim'
+```
+4 Installation done
